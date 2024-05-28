@@ -16,7 +16,7 @@ Spend Wise is an expense tracker application built using the MERN stack (MongoDB
 **Frontend**: React.js\
 **Backend**: Node.js, Express.js\
 **Database**: MongoDB\
-**Charting**: Chart.js\
+**Charting**: Chart.js
 
 ## Usage
 **Add Income**: Navigate to the income form, fill in the details of your income (e.g., title, amount, date, category, description), and submit.
